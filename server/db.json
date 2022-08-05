@@ -1,0 +1,24 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Angular 13 Fundamentals asdasd",
+      "description": "Learn the fundamentals of Angular 13",
+      "percentComplete": 26,
+      "favorite": true
+    },
+    {
+      "id": 2,
+      "title": "sadadas",
+      "description": "sadasd",
+      "favorite": true,
+      "percentComplete": 0
+    }
+  ],
+  "lessons": [
+    {
+      "id": 1,
+      "title": "Component driven Arch"
+    }
+  ]
+}
